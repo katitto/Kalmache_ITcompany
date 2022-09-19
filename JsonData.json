@@ -1,0 +1,3 @@
+
+{"ProjectName":"PROJECT TEAM 1 - WEB DEVELOPMENT","MyProgrammers":[{"StartPeriod":"2022-02-01T00:00:00","EndPeriod":"2022-08-06T00:00:00","Technology":"Javascript","DurationUntilToday":0,"Salary":7631.25},{"StartPeriod":"2022-05-01T00:00:00","EndPeriod":"2022-09-23T00:00:00","Technology":"Phyton","DurationUntilToday":18,"Salary":5940}]}
+{"ProjectName":"PROJECT TEAM 2 - BACKEND JAVA","MyProgrammers":[{"StartPeriod":"2021-12-11T00:00:00","EndPeriod":"2022-10-23T00:00:00","Technology":"C#","DurationUntilToday":18,"Salary":6496.875},{"StartPeriod":"2022-05-01T00:00:00","EndPeriod":"2022-12-11T00:00:00","Technology":"Java","DurationUntilToday":18,"Salary":4599.375}]}
