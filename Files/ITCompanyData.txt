@@ -1,0 +1,27 @@
+IT Company Report: 
+IT company is currently composed of : 2 Project Teams and 4 Programmers
+This month 54 days have been consumed by 4 programmers and pending days in charge 73
+PROJECT TEAM 1 - WEB DEVELOPMENT 
+ 
+ Programmer 1 : kathy almache is in charge of Javascript from 01/02/2022 0:00:00 to 05/08/2022 0:00:00, total duration 185, this month 0 days (Total cost = 7631.25)  
+ Programmer 2 : isra barros is in charge of Phyton from 01/05/2022 0:00:00 to 22/09/2022 0:00:00, total duration 144, this month 18 days (Total cost = 5940)  
+
+PROJECT TEAM 2 - BACKEND JAVA 
+ 
+ Programmer 1 : Juan lopez is in charge of C# from 11/12/2021 0:00:00 to 22/10/2022 0:00:00, total duration 315, this month 18 days (Total cost = 6496.875)  
+ Programmer 2 : Pascal perez is in charge of Java from 01/05/2022 0:00:00 to 10/12/2022 0:00:00, total duration 223, this month 18 days (Total cost = 4599.375)  
+
+*****************INCRESE ONE DAY*****************UPDATING DATA....
+IT Company Report: 
+IT company is currently composed of : 2 Project Teams and 4 Programmers
+This month 54 days have been consumed by 4 programmers and pending days in charge 77
+PROJECT TEAM 1 - WEB DEVELOPMENT 
+ 
+ Programmer 1 : kathy almache is in charge of Javascript from 01/02/2022 0:00:00 to 06/08/2022 0:00:00, total duration 186, this month 0 days (Total cost = 7631.25)  
+ Programmer 2 : isra barros is in charge of Phyton from 01/05/2022 0:00:00 to 23/09/2022 0:00:00, total duration 145, this month 18 days (Total cost = 5940)  
+
+PROJECT TEAM 2 - BACKEND JAVA 
+ 
+ Programmer 1 : Juan lopez is in charge of C# from 11/12/2021 0:00:00 to 23/10/2022 0:00:00, total duration 316, this month 18 days (Total cost = 6496.875)  
+ Programmer 2 : Pascal perez is in charge of Java from 01/05/2022 0:00:00 to 11/12/2022 0:00:00, total duration 224, this month 18 days (Total cost = 4599.375)  
+
